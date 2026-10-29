@@ -5,5 +5,5 @@ Computer Engineering student at the Federal University of Ceará. Interested in 
 ## Technologies I have worked with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,nodejs,react,nextjs,django,git,linux" alt="JavaScript, TypeScript, Python, C, HTML, CSS, Node.js, React, Next.js, Django, Git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,nodejs,react,nextjs,django,git" alt="JavaScript, TypeScript, Python, C, HTML, CSS, Node.js, React, Next.js, Django, Git" />
 </p>
