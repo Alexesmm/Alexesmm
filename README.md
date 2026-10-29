@@ -7,6 +7,3 @@ Computer Engineering student at the Federal University of Ceará. Interested in 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,nodejs,react,nextjs,django,git,linux" alt="JavaScript, TypeScript, Python, C, HTML, CSS, Node.js, React, Next.js, Django, Git and Linux" />
 </p>
-Filtrar arquivos
-+6
--14
